@@ -1,0 +1,5 @@
+@EndUserText.label: 'YSC_RAP_AGENCY_AP'
+@OData.schema.name: 'ZAGENCYCDS_SRV'
+define service YSC_RAP_AGENCY_AP {
+ expose Y_TRAVEL_AGENCY_AP; 
+ } 
